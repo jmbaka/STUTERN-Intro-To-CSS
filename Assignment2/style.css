@@ -1,0 +1,17 @@
+body {
+    background-color: aliceblue;
+}
+.likes {
+    padding: 20px;
+    margin: 20px;
+}
+#ol li {
+    list-style-type: lower-roman;
+}
+.dislikes {
+    padding: 20px;
+    margin: 20px;
+}
+#ul li {
+    list-style-image: url('sqpurple.gif');
+}

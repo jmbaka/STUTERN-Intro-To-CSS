@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+}
+/* First Section */
+.section1 h1 {
+    font-size: 18px;
+}
+.section1 {
+    color: green;
+    font-size: 14px;
+    padding: 20px;
+    border: 2px solid green;
+    margin: 20px;
+}
+/* Second Section */
+.section2 h1 {
+    font-size: 18px;
+}
+.section2 {
+    font-size: 14px;
+    color: red;
+    padding: 20px;
+    border: 2px solid red;
+    margin: 20px;
+}
+/* Third Section */
+.section3 h1 {
+    font-size: 18px;
+}
+.section3 {
+    font-size: 14px;
+    color: blue;
+    padding: 20px;
+    border: 2px solid blue;
+    margin: 20px;
+}
